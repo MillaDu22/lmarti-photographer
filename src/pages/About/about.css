@@ -1,0 +1,69 @@
+/* about.css */
+.AProposPage {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: white;
+    padding: 50px;
+}
+
+.intro {
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.career, .gallery, .testimonials, .contact {
+    margin-bottom: 40px;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.career h2, .gallery h2, .testimonials h2, .contact h2 {
+    border-bottom: 2px solid white;
+    display: inline-block;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.gallery-images {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.gallery-pic {
+    width: 45%;
+    margin-bottom: 20px;
+    border: 5px solid #ddd;
+    border-radius: 5px;
+}
+
+.testimonial {
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-left: 5px solid #333;
+}
+
+.testimonial p {
+    margin: 0;
+    color: black;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.contact a {
+    color: #0066cc;
+    text-decoration: none;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}

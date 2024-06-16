@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@300&display=swap');
+
+.home {
+    position: relative;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width:100%;
+    margin:0 auto;
+    overflow: hidden;
+    padding:0;
+}
+
+.container-skillbar, .titre-bar-moyennes, .banner, .carousel, .TimeLine,.heading, .container-header, .container-footer {
+    position: relative;
+    z-index: 1; 
+}
+
+@media screen and (max-width: 768px) {
+    .home {
+        width:100%;
+    }
+}

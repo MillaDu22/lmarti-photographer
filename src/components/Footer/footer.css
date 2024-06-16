@@ -1,0 +1,24 @@
+.container-footer {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:center;
+    padding-left:10%;
+    padding-right:10%;
+    padding-top:20px;
+    padding-bottom: 20px;
+    background: black;
+    width:100%;
+    margin:0;
+}
+
+.about, .mailto {
+    color:white;
+    font-family: 'Ysabeau SC', sans-serif;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.about:hover, .mailto:hover {
+    color:white;
+}
