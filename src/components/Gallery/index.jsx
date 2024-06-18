@@ -1,9 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 import './gallery.css';
 import DatasImages from '../../datas.json';
 
-function Gallery() {
+const Gallery = React.memo(() =>  {
     return (
         <div className="gallery">
             {DatasImages.map((dataImage) => (
@@ -13,13 +14,13 @@ function Gallery() {
                     key={dataImage.id}
                 >
                     <div className={`embed embed--${dataImage.span_h}-${dataImage.span_v}`}>
-                        <img className="image-gallery" src={dataImage.src} alt={dataImage.alt} />
+                        <LazyLoadImage className="image-gallery" src={dataImage.src} alt={dataImage.alt || 'Image'}/>
                     </div>
                 </Link>
             ))}
         </div>
     );
-}
+})
 
 export default Gallery;
 

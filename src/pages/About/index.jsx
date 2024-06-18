@@ -1,8 +1,6 @@
 import React from 'react';
 import './about.css'; 
 import profilePicture from '../../Assets/images/photo-moi.webp';  
-import samplePhoto1 from '../../Assets/images/Zoulou.jpg'; 
-import samplePhoto2 from '../../Assets/images/Zoulou4.jpg';  
 
 function About() {
     return (
@@ -11,9 +9,10 @@ function About() {
                 <img src={profilePicture} alt="Photographer" className="profile-pic" />
                 <h1>À propos de moi</h1>
                 <p>
-                    Bonjour ! Je suis une photographe passionnée avec plus de 10 ans d'expérience 
-                    dans la capture de moments uniques et mémorables. Mon travail couvre une variété de styles 
-                    allant de l'animalier aux paysages minimalistes.
+                    Bonjour ! Je suis une photographe passionnée avec une simple formation de BEP photographe
+                    qui aime la capture de moments uniques et mémorables. Mon loisir couvre une variété de styles 
+                    allant de l'animalier aux paysages minimalistes en passant aussi par des voyages dans le temps avec des
+                    lieux laissés à l'abandon depuis des décenies où la nature à repris ses droits.
                 </p>
             </div>
             
@@ -21,8 +20,7 @@ function About() {
                 <h2>Mon parcours</h2>
                 <p>
                     J'ai commencé la photographie en tant qu'amatrice passionnée, et au fil des années, j'ai transformé 
-                    cette passion en une compétence dans ma nouvelle profession. J'ai travaillé avec divers clients allant de particuliers à des 
-                    entreprises, en couvrant des événements, des projets artistiques.
+                    cette passion en une compétence pour ma profession de web-developer. Je code des sites web, et peux également travailler sur les images.
                 </p>
                 <p>
                     Mon approche se base sur la créativité, l'authenticité et l'émotion. Je m'efforce de capturer 
@@ -31,12 +29,10 @@ function About() {
                 </p>
             </div>
             
-
-
             <div className="testimonials">
                 <h2>Témoignages</h2>
                 <div className="testimonial">
-                    <p>"Une photographe exceptionnelle ! Chaque photo est une œuvre d'art. Merci pour ces souvenirs incroyables."</p>
+                    <p>"Une photographe exceptionnelle ! Chaque photo capture une émotion. Merci pour ces souvenirs incroyables."</p>
                     <p>- Client satisfait</p>
                 </div>
                 <div className="testimonial">
