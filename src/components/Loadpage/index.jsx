@@ -4,7 +4,7 @@ function LoadPage() {
     return (
         <div className="container-loader">
             <div className="ring">
-                <h4>Loading...</h4>
+                <h3>Loading...</h3>
             </div>
         </div>
     )

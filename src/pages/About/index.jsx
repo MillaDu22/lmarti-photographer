@@ -13,6 +13,7 @@ function About() {
                     qui aime la capture de moments uniques et mémorables. Mon loisir couvre une variété de styles 
                     allant de l'animalier aux paysages minimalistes en passant aussi par des voyages dans le temps avec des
                     lieux laissés à l'abandon depuis des décenies où la nature à repris ses droits.
+                    En couleur ou noir & blanc.
                 </p>
             </div>
             
@@ -32,12 +33,12 @@ function About() {
             <div className="testimonials">
                 <h2>Témoignages</h2>
                 <div className="testimonial">
-                    <p>"Une photographe exceptionnelle ! Chaque photo capture une émotion. Merci pour ces souvenirs incroyables."</p>
-                    <p>- Client satisfait</p>
+                    <p>"Une photographe qui a l'oeil ! Chaque photo capture une émotion. Merci pour ces souvenirs incroyables."</p>
+                    <p>- Satisfait</p>
                 </div>
                 <div className="testimonial">
                     <p>"Son œil pour les détails et sa passion pour la photographie transparaissent dans chaque cliché."</p>
-                    <p>- Client heureux</p>
+                    <p>- Heureux</p>
                 </div>
             </div>
 

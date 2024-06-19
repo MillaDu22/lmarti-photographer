@@ -14,14 +14,14 @@ function Banner () {
                         des instants éphémères à travers l'objectif de mon appareil photo.
                         La photographie est pour moi bien plus qu'un passe-temps. 
                         C'est une manière de partager ma vision du monde et de capturer des émotions brutes et authentiques. 
-                        Que ce soit la faune sauvage,la nature, la photographie d'urbex ou rurex HDR, ou la sérénité d'un paysage minimaliste, 
+                        Que ce soit la faune sauvage, la nature, la photographie d'urbex ou rurex HDR, ou la sérénité d'un paysage minimaliste, 
                         chaque cliché est une exploration et une célébration de la beauté qui nous entoure. </p>
                 </div>
                 <span className="circle">
                     <img className= "portrait-header" src = {Portrait} alt ="portrait" />
                 </span>
             </div>
-            <h2 className= "welcome">Bienvenue dans mon univers visuel !</h2>
+            <h3 className= "welcome">Bienvenue dans mon univers visuel !</h3>
         </div>
     )
 }

@@ -21,15 +21,15 @@ function Diaporama() {
     return (
         <div className="diaporama">
             <div className="slide">
-                <img src={DatasImages[currentImageIndex].src} alt={DatasImages[currentImageIndex].alt} />
+                <img className="tof-diapo" src={DatasImages[currentImageIndex].src} alt={DatasImages[currentImageIndex].alt} />
+                <div className="counter">{`${currentImageNumber}/${DatasImages.length}`}</div>
+                <div className="controls">
+                    <button className="prev" onClick={goToPreviousSlide}>&larr;</button>
+                    <button className="next" onClick={goToNextSlide}>&rarr;</button>
+                </div>
                 <div className="description">
                     {DatasImages[currentImageIndex].description}
                 </div>
-                <div className="counter">{`${currentImageNumber}/${DatasImages.length}`}</div>
-            </div>
-            <div className="controls">
-                <button className="prev" onClick={goToPreviousSlide}>&larr;</button>
-                <button className="next" onClick={goToNextSlide}>&rarr;</button>
             </div>
         </div>
     );
