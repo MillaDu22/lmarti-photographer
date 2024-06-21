@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/lmarti-photographer/static/css/main.fbb22aea.css",
-    "main.js": "/lmarti-photographer/static/js/main.e7a4ff7b.js",
+    "main.css": "/lmarti-photographer/static/css/main.d444fbd3.css",
+    "main.js": "/lmarti-photographer/static/js/main.c0212375.js",
     "static/js/787.ea4aa289.chunk.js": "/lmarti-photographer/static/js/787.ea4aa289.chunk.js",
     "static/media/Boheme Floral.ttf": "/lmarti-photographer/static/media/Boheme Floral.0345ab604f426031d363.ttf",
     "static/media/Cinzel-Regular.otf": "/lmarti-photographer/static/media/Cinzel-Regular.f91baf6fe825a2549798.otf",
     "static/media/britain-logo.webp": "/lmarti-photographer/static/media/britain-logo.fcb245e4236a9c1de19e.webp",
     "static/media/photo-moi.webp": "/lmarti-photographer/static/media/photo-moi.91ef79723d60e8dfc21a.webp",
     "index.html": "/lmarti-photographer/index.html",
-    "main.fbb22aea.css.map": "/lmarti-photographer/static/css/main.fbb22aea.css.map",
-    "main.e7a4ff7b.js.map": "/lmarti-photographer/static/js/main.e7a4ff7b.js.map",
+    "main.d444fbd3.css.map": "/lmarti-photographer/static/css/main.d444fbd3.css.map",
+    "main.c0212375.js.map": "/lmarti-photographer/static/js/main.c0212375.js.map",
     "787.ea4aa289.chunk.js.map": "/lmarti-photographer/static/js/787.ea4aa289.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbb22aea.css",
-    "static/js/main.e7a4ff7b.js"
+    "static/css/main.d444fbd3.css",
+    "static/js/main.c0212375.js"
   ]
 }
