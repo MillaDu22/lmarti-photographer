@@ -7,7 +7,7 @@ import DatasImages from '../../datas.json';
 const Gallery = React.memo(() =>  {
     return (
         <div className="gallery">
-            {DatasImages.map((dataImage) => (
+            {DatasImages.map((dataImage, index) => (
                 <Link
                     to={`/fiche/${dataImage.id}`}
                     className={`gallery__item gallery__item--h-${dataImage.span_h} gallery__item--v-${dataImage.span_v}`}
@@ -16,6 +16,7 @@ const Gallery = React.memo(() =>  {
                 >
                     <div className={`embed embed--${dataImage.span_h}-${dataImage.span_v}`}>
                         <LazyLoadImage loading="lazy" className="image-gallery" src={dataImage.src} alt={dataImage.alt || 'Image'}/>
+                        <span className="photo-number">{index + 1}</span>
                     </div>
                 </Link>
             ))}

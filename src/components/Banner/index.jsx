@@ -9,7 +9,7 @@ function Banner () {
                 <div className="box-txt">
                     <p className= "txt-welcome">
                     </p>
-                    <p className="txt-visit">Bonjour, vous êtes là où chaque photo raconte une histoire unique et capture des moments intemporels. 
+                    <p className="txt-visit">Bonjour, vous êtes là où chaque photo cliquable raconte une histoire unique et capture des moments intemporels. 
                         Je suis Ludmilla, une passionnée de la photographie qui voit la beauté dans les moindres détails et cherche à immortaliser 
                         des instants éphémères à travers l'objectif de mon appareil photo.
                         La photographie est pour moi bien plus qu'un passe-temps. 

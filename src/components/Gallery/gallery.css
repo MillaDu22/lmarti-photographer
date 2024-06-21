@@ -9,6 +9,7 @@
     max-inline-size: 100%;
     vertical-align: middle;
     object-fit: cover;
+    cursor:zoom-in;
   }
   
   .embed {
@@ -86,6 +87,23 @@
   .gallery__item--v-4 {
     grid-row-end: span 4;
   }
+
+  .photo-number {
+    position: absolute;
+    top: 10px; /* Adjust according to your design */
+    left: 10px; /* Adjust according to your design */
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    color: white;
+    padding: 5px;
+    border-radius: 15%;
+    font-size: 12px; /* Adjust the font size as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px; /* Adjust size */
+    height: 25px; /* Adjust size */
+    z-index: 1;
+}
 
 
 

@@ -69,23 +69,23 @@
         "alt": "Mon chien d'amour",
         "span_h": 2,
         "span_v": 3,
-        "description": "Mon chien croisé beauceron, que j’appelle affectueusement 'l'Espagnol Breton', m’observe par la fenêtre. Originaire d'Espagne, maintenant en Bretagne, il incarne un lien spécial entre ces deux cultures. Regard attentif, symbole de fidélité et d’attachement."
+        "description": "Mon chien croisé beauceron, que j’appelle affectueusement 'l'Espagnol Breton', m’observe par la fenêtre. Originaire d'Espagne, maintenant en Bretagne, il incarne un lien spécial entre ces deux cultures. Regard attentif, il me regarde partir... Symbole de fidélité et d’attachement."
     },
     {
         "id": 10,
-        "src": "https://i.ibb.co/KGdd2PN/Zoulou.jpg",
-        "alt": "L'agnelage du printemps 2024",
+        "src": "https://i.ibb.co/PQcQqzx/Abandonned-cars.jpg",
+        "alt": "2 cv abandonnées",
         "span_h": 3,
         "span_v": 2,
-        "description": "Agneau de Ouessant (Ovis aries) de 3 jours, petite taille, laine douce noire ou blanche, dépendant de sa mère. Race rare et protégée, originaire de l'île d'Ouessant. Adapté aux conditions rudes, important pour la biodiversité et le patrimoine breton."
+        "description": "Dans ce cliché captivant, des légendaires Citroën 2 CV reposent dans un garage abandonné, enveloppées d'une atmosphère nostalgique. La photo, prise à travers une vitre brisée, dévoile des détails riches et une texture unique grâce à la technique HDR. Une scène qui évoque le charme d'une époque révolue avec une touche d'intemporalité."
     },
     {
         "id": 11,
-        "src": "https://i.ibb.co/kMVmPxr/Zoulou4.jpg",
-        "alt": "Agneau d'Ouessant",
+        "src": "https://i.ibb.co/zhhGqfx/Abandonned-cars2.jpg",
+        "alt": "2 chevaux",
         "span_h": 3,
         "span_v": 2,
-        "description": "Agneau de Ouessant (Ovis aries) de 3 jours, reposant paisiblement, recroquevillé sur lui-même, laine douce et soyeuse. Espèce rare et protégée, originaire de l'île d'Ouessant. Symbolise la tranquillité et l'innocence dans son habitat naturel."
+        "description": "Dans ce cliché captivant, deux légendaires Citroën 2 CV reposent dans un garage abandonné, enveloppées d'une atmosphère nostalgique. La photo, prise à travers une vitre brisée, dévoile des détails riches et une texture unique grâce à la technique HDR. Une scène qui évoque le charme d'une époque révolue avec une touche d'intemporalité."
     },
     {
         "id": 12,
@@ -97,7 +97,7 @@
     },
     {
         "id": 13,
-        "src": "https://i.ibb.co/mbHW5DN/Zoulou2.jpg",
+        "src": "https://i.ibb.co/4gyM83v/Zoulou2.jpg",
         "alt": "Agnelage printanier",
         "span_h": 2,
         "span_v": 3,
@@ -113,19 +113,19 @@
     },
     {
         "id": 15,
-        "src": "https://i.ibb.co/stBQwrF/lie-vre-en-mvts-2.jpg",
-        "alt": "sprint de lièvre",
+        "src": "https://i.ibb.co/0DmsJX2/Zoulou5.jpg",
+        "alt": "Zeus, le petit mouton noir de Ouessant",
         "span_h": 3,
         "span_v": 3,
-        "description": "Lièvre européen (Lepus europaeus) en pleine course, corps élancé et pattes arrière puissantes, mouvement rapide et gracieux. Espèce commune, emblématique des paysages ouverts. Représente l'agilité et la vivacité de la faune sauvage."
+        "description": "Agneau de Ouessant (Ovis aries) de 3 jours, petite taille, laine douce noire ou blanche, dépendant de sa mère. Race rare et protégée, originaire de l'île d'Ouessant. Adapté aux conditions rudes, important pour la biodiversité et le patrimoine breton."
     },
     {
         "id": 16,
-        "src": "https://i.ibb.co/68B2cjk/Vipe-re-pe-liade-femelle.jpg",
-        "alt": "Vipèrus berus",
+        "src": "https://i.ibb.co/s39YBZd/De-primed-butterfly.jpg",
+        "alt": "Butterfly",
         "span_h": 3,
         "span_v": 3,
-        "description": "Vipère péliade femelle (Vipera berus) avec la tête dressée, regardant attentivement, écailles sombres distinctes. Espèce protégée, symbolise la vigilance et la rencontre fascinante entre humain et nature. Moment d’observation mutuelle intense et captivante."
+        "description": "Cette photo en noir et blanc capture un papillon au repos sur un végétal desséché, évoquant un sentiment de mélancolie. La texture contrastée de la feuille sèche et la fragilité du papillon soulignent la beauté éphémère de la nature. Un instant de sérénité où la vie et le déclin se rencontrent."
     },
     {
         "id": 17,
@@ -153,7 +153,7 @@
     },
     {
         "id": 20,
-        "src": "https://i.ibb.co/6J1ZXpB/vipe-re-pelliade.jpg",
+        "src": "https://i.ibb.co/x2wZnhh/peliade-broussaille.jpg",
         "alt": "Vipère en thermo-régulation",
         "span_h": 2,
         "span_v": 3,
@@ -177,11 +177,11 @@
     },
     {
         "id": 23,
-        "src": "https://i.ibb.co/KGdd2PN/Zoulou.jpg",
-        "alt": "Bébé mouton, agneau noir de l'ile d'Ouessant",
+        "src": "https://i.ibb.co/mS25L1T/Abandonned-train.jpg",
+        "alt": "Interieur de wagon train abandonné.",
         "span_h": 3,
         "span_v": 2, 
-        "description": "Agneau de Ouessant (Ovis aries) de 3 jours, petite taille, laine douce noire ou blanche, dépendant de sa mère. Race rare et protégée, originaire de l'île d'Ouessant. Adapté aux conditions rudes, important pour la biodiversité et le patrimoine breton."
+        "description": "Cette photo HDR dévoile l'intérieur sombre et mystérieux d'un wagon de train abandonné, où le temps semble s'être figé. Les textures détaillées des sièges usés et du plafond écaillé contrastent avec la lumière filtrant à travers les fenêtres taguées. Une exploration visuelle captivante qui raconte l'histoire oubliée de voyages passés."
     },
     {
         "id": 24,
@@ -193,11 +193,11 @@
     },
     {
         "id": 25,
-        "src": "https://i.ibb.co/kMVmPxr/Zoulou4.jpg",
-        "alt": "bébé mouton nain",
+        "src": "https://i.ibb.co/Yt5W7Gj/Abandonned-train-dashboard.jpg",
+        "alt": "Tableau de contrôle de vieille locomotive abandonnée",
         "span_h": 3,
         "span_v": 2,
-        "description": "Agneau de Ouessant (Ovis aries) de 3 jours, reposant paisiblement, recroquevillé sur lui-même, laine douce et soyeuse. Espèce rare et protégée, originaire de l'île d'Ouessant. Symbolise la tranquillité et l'innocence dans son habitat naturel."
+        "description": "Cette photo HDR en noir et blanc capture avec une richesse de détails le tableau de bord usé d'une locomotive abandonnée, témoignant d'une époque révolue. Les cadrans chromés et les leviers rouillés, illuminés par une lumière douce, créent une ambiance nostalgique et intemporelle. Une composition saisissante qui plonge dans l'histoire et la désuétude des voyages ferroviaires oubliés."
     },
     {
         "id": 26,
@@ -217,75 +217,75 @@
     },
     {
         "id": 28,
-        "src": "https://i.ibb.co/k4cy0tk/Libellule-de-prime.jpg",
-        "alt": "Libellule sur ronce sèche",
+        "src": "https://i.ibb.co/qB1QRSJ/Me-sange-portrait.jpg",
+        "alt": "Portrait de mésange",
         "span_h": 2,
         "span_v": 3,
-        "description": "Libellule déprimée (Libellula depressa) en noir et blanc, posée sur une branche sèche, ailes étendues. Espèce répandue, symbolisant la fragilité et la fugacité de la vie. Scène contrastée entre la grâce de l’insecte et la sécheresse du support."
+        "description": "Mésange bleue (Cyanistes caeruleus) se nourrissant dans un jardin en hiver, plumage vif contrastant avec le décor froid. Espèce commune, adaptée aux conditions hivernales, symbolisant la résilience et la survie. Instantané de vie sauvage capturant la beauté et la vitalité dans un paysage d'hiver."
     },
     {
         "id": 29,
-        "src": "https://i.ibb.co/3STdgSh/couple-peliades.jpg",
-        "alt": "Couple pélliades enlacées",
+        "src": "https://i.ibb.co/HDDnMbB/Logis.jpg",
+        "alt": "Logis d'époque",
         "span_h": 3,
         "span_v": 2,
-        "description": "Couple de vipères péliades (Vipera berus) entrelacées, le mâle a un œil opaque et bleuté, signe de mue imminente. Espèce protégée, entrelacement symbolisant leur comportement reproductif. La mue est essentielle pour leur croissance et régénération."
+        "description": "Cette photo intemporelle HDR dévoile un intérieur d'époque où le temps semble suspendu : une table dressée avec de la vaisselle, un lit d'autrefois, une table de couturière, un chaudron dans la cheminée et des souliers posés sur la cheminée. Le sol en terre battue renforce l'authenticité rustique du lieu, transportant le lecteur dans une époque révolue. Une scène intacte qui raconte l'histoire d'un quotidien figé dans le passé."
     },
     {
         "id": 30,
-        "src": "https://i.ibb.co/kSVyz2k/Me-sange.jpg",
+        "src": "https://i.ibb.co/tcnxN87/escalier-ancien.jpg",
         "alt": "mesange en hiver",
         "span_h": 3,
         "span_v": 2,
-        "description": "Mésange bleue (Cyanistes caeruleus) se nourrissant dans un jardin en hiver, plumage vif contrastant avec le froid. Espèce commune, adaptative et active, symbolise la résilience hivernale. Scène animée de vie dans un paysage endormi."
+        "description": "Cette photo HDR en noir et blanc capture l'atmosphère figée d'un escalier en bois dans un immeuble ancien, où une vieille poussette repose discrètement dans un coin. Les souliers laissés à côté d'une porte d'entrée et le balai avec la pelle témoignent d'une vie quotidienne suspendue. La texture du bois, magnifiée par le HDR, révèle chaque détail et souligne l'authenticité du lieu."
     },
     {
         "id": 31,
-        "src": "https://i.ibb.co/GkxwzgB/Mon-espagnol-breton.jpg",
-        "alt": "L'espagnol breton",
+        "src": "https://i.ibb.co/9rKnB9c/Lbellule-de-prime-couleur.jpg",
+        "alt": "Libellula depressa couleur",
         "span_h": 2,
         "span_v": 3,
-        "description": "Mon chien croisé beauceron, que j’appelle affectueusement 'l'Espagnol Breton', m’observe par la fenêtre. Originaire d'Espagne, maintenant en Bretagne, il incarne un lien spécial entre ces deux cultures. Regard attentif, symbole de fidélité et d’attachement."
+        "description": "Libellule déprimée (Libellula depressa) en couleur, posée sur une tige de ronce sèche, ailes étendues. Espèce répandue, symbolisant la fragilité et la fugacité de la vie. Scène contrastée entre la grâce et les couleurs de l’insecte et la sécheresse du support."
     },
     {
         "id": 32,
-        "src": "https://i.ibb.co/KGdd2PN/Zoulou.jpg",
-        "alt": "Zeus le petit agneau",
+        "src": "https://i.ibb.co/jTPfJR3/Pressoir-cidre.jpg",
+        "alt": "Pressoir cidre",
         "span_h": 3,
         "span_v": 2,
-        "description": "Agneau de Ouessant (Ovis aries) de 3 jours, petite taille, laine douce noire ou blanche, dépendant de sa mère. Race rare et protégée, originaire de l'île d'Ouessant. Adapté aux conditions rudes, important pour la biodiversité et le patrimoine breton."
+        "description": "Cette photo HDR illustre un ancien pressoir à pommes en bois utilisé pour la fabrication du cidre, mettant en avant la méthode artisanale et traditionnelle. Les textures vieillies du bois et les mécanismes rustiques témoignent de l'histoire et du savoir-faire ancestral. Un objet emblématique qui rappelle les pratiques d'autrefois pour la production de cidre."
     },
     {
         "id": 33,
-        "src": "https://i.ibb.co/kMVmPxr/Zoulou4.jpg",
-        "alt": "Zeus d'Ouessant ",
+        "src": "https://i.ibb.co/jzs0gCf/Fu-ts-cidre.jpg",
+        "alt": "Fûts à cidre ",
         "span_h": 3,
         "span_v": 2,
-        "description": "Agneau de Ouessant (Ovis aries) de 3 jours, reposant paisiblement, recroquevillé sur lui-même, laine douce et soyeuse. Espèce rare et protégée, originaire de l'île d'Ouessant. Symbolise la tranquillité et l'innocence dans son habitat naturel."
+        "description": "Cette photo HDR de fûts à cidre en bois, symbolique d'une tradition cidricole ancienne et authentique. Les fûts, marqués par le temps et les usages répétés, évoquent l'art de la fermentation et du vieillissement du cidre. Une scène rustique qui respire l'histoire et le savoir-faire artisanal."
     },
     {
         "id": 34,
-        "src": "https://i.ibb.co/Nm8k484/Vol-solitaire.jpg",
-        "alt": "Canard en vol",
+        "src": "https://i.ibb.co/qNYz1ks/Ossature-wagon-vrac.jpg",
+        "alt": "Ossature wagon vracquier",
         "span_h": 3,
         "span_v": 2,
-        "description": "Canard Colvert (Anas platyrhynchos) en vol, silhouette nette contre un ciel dégagé. Image minimaliste capturant la grâce du mouvement et la simplicité de la scène. Contraste saisissant entre le specimen et le fond uniforme."
+        "description": "Cette photo HDR en noir et blanc capture l'ossature rouillée d'un wagon vracquier abandonné, niché au cœur d'une clairière. Les détails saisissants de la rouille et des structures métalliques contrastent avec la lumière douce de l'environnement naturel. Une composition qui évoque à la fois la désuétude industrielle et la beauté sauvage."
     },
     {
         "id": 35,
-        "src": "https://i.ibb.co/mbHW5DN/Zoulou2.jpg",
+        "src": "https://i.ibb.co/YTyyKNN/ragondin.jpg",
         "alt": "Zeus en 2024",
         "span_h": 2,
         "span_v": 3,
-        "description": "Jeune agneau de Ouessant avec sa mère, dans un cadre pastoral. Race rare et protégée, originaire de l'île d'Ouessant. Scène émouvante de tendresse maternelle et de connexion dans leur environnement naturel."
+        "description": "Cette photo met en avant un ragondin (Myocastor coypus) au milieu d'une friche, à proximité d'un petit cours d'eau. Ses mains distinctives sont bien visibles, soulignant la dextérité de cet animal semi-aquatique. La scène naturelle offre un aperçu de la faune locale dans son habitat sauvage."
     },
     {
         "id": 36,
-        "src": "https://i.ibb.co/18PchnP/dragon-fly.jpg",
-        "alt": "Dragon volant",
+        "src": "https://i.ibb.co/tZ1KqKp/Forges.jpg",
+        "alt": "Atelier de forgeron",
         "span_h": 3,
         "span_v": 2,
-        "description": "Le Leste vert (Chalcolestes viridis), est une libellule au corps frêle de couleur vert-clair métallique sur tout le corps posée délicatement sur une feuille, ailes repliées, teintes vertes chatoyantes. Espèce emblématique des zones humides, symbolisant la beauté fragile de la nature. Instant capturé, évoquant la quiétude et l'harmonie avec l'environnement."
+        "description": "Cette photo HDR révèle l'intérieur d'un ancien atelier de forgeron, où les outils pendent au mur, évoquant des décennies de labeur artisanal. Un bac de refroidissement, une enclume patinée et des restes de charbon de bois complètent cette scène empreinte de l'histoire. Chaque détail est magnifié par le HDR, soulignant l'authenticité et la richesse de ce lieu oublié."
     },
     {
         "id": 37,
@@ -305,50 +305,50 @@
     },
     {
         "id": 39,
-        "src": "https://i.ibb.co/mNgddMX/Zoulou3.jpg",
-        "alt": "Zeus le dieu du mouton d'Ouessant",
+        "src": "https://i.ibb.co/dBpvDkT/Dok.jpg",
+        "alt": "Dok monte la garde",
         "span_h": 2,
         "span_v": 3,
-        "description": "Agneau de Ouessant explorant son environnement, curieux et joueur. Race rare et protégée, originaire de l'île d'Ouessant. Moment charmant de découverte et d'apprentissage dans le paysage naturel."
+        "description": "Mon Espagnol Breton monte la garde depuis sa propriété. Une force tranquille. "
     },
     {
         "id": 40,
-        "src": "https://i.ibb.co/Yj40XdG/Biche.jpg",
+        "src": "https://i.ibb.co/6FPSj7q/peliade-ardoise.jpg",
         "alt": "Biche traversant un champs à l'heure dorée",
         "span_h": 3,
         "span_v": 2,
-        "description": "Biche camouflée, seule sa tête émerge des épis de blé dans un champ. Image évoquant la discrétion et l'élégance naturelle. Contraste harmonieux entre la douceur de l'animal et la texture dorée des récoltes."
+        "description": "Vipère péliade sur ardoise chaude (Vipera berus) absorbant la chaleur du soleil pour réguler sa température corporelle. Espèce protégée, habitant les milieux forestiers d'Europe. Moment crucial de thermorégulation, vital pour son activité quotidienne."
     },
     {
         "id": 41,
-        "src": "https://i.ibb.co/cFmLVt8/Biche2.jpg",
-        "alt": "Biche traversant un champs. Seule la tête dépasse des épis de blé.",
+        "src": "https://i.ibb.co/0jpY5qY/brebis-Ouessant.jpg",
+        "alt": "Brebis d'Ouessant",
         "span_h": 3,
         "span_v": 2,
-        "description": "Biche camouflée, seule sa tête émerge des épis de blé dans un champ. Image évoquant la discrétion et l'élégance naturelle. Contraste harmonieux entre la douceur de l'animal et la texture dorée des récoltes."
+        "description": "Brebis noire d'Ouessant (Ovis aries) se fondant dans les hautes herbes, son pelage sombre contrastant avec la végétation. Race rare et protégée, symbole de rusticité et d'adaptation. Image de tranquillité et d'intégration parfaite à l'environnement naturel."
     },
     {
         "id": 42,
-        "src": "https://i.ibb.co/6J1ZXpB/vipe-re-pelliade.jpg",
-        "alt": "Vipère qui fait bronzette",
+        "src": "https://i.ibb.co/C0mFmwd/Portrait-libellule.jpg",
+        "alt": "Portrait de libellule",
         "span_h": 2,
         "span_v": 3,
-        "description": "Vipère péliade (Vipera berus) absorbant la chaleur du soleil pour réguler sa température corporelle. Espèce protégée, habitant les milieux forestiers d'Europe. Moment crucial de thermorégulation, vital pour son activité quotidienne."
+        "description": "Libellule déprimée (Libellula depressa) en couleur, posée sur une tige de ronce sèche, ailes étendues. Espèce répandue, symbolisant la fragilité et la fugacité de la vie. Scène contrastée entre la grâce et les couleurs de l’insecte et la sécheresse du support."
     },
     {
         "id": 43,
-        "src": "https://i.ibb.co/HDzx7St/Biche3.jpg",
+        "src": "https://i.ibb.co/jTbyVDj/old-school.jpg",
         "alt": "Biche en fin d'hiver",
         "span_h": 3,
         "span_v": 2,
-        "description": "Biche paisible explorant une terre fraîchement préparée pour le semis, symbole de quiétude et de connexion avec la nature. Scène capturant la grâce naturelle de l'animal dans un environnement rural. Contraste entre la douceur de la biche et la terre fertile prête pour la culture."
+        "description": "Photo HDR couleur d'une salle de classe ancienne, avec un poêle à charbon au centre, des tables-bancs en bois usé, et des cartes et affiches d'anatomie aux murs. Une balance ancienne avec des poids ajoute une touche historique. L’image vibrant de détails et de couleurs, évoque une ambiance riche et nostalgique. Ambiance authentique d'une époque révolue, empreinte de tradition et d'apprentissage."
     },
     {
         "id": 44,
-        "src": "https://i.ibb.co/FD0BV9S/Biche4.jpg",
-        "alt": "Sortie de biche en fin d'après midi",
+        "src": "https://i.ibb.co/RhRC7k9/guichet-paies.jpg",
+        "alt": "Guichet paies intact",
         "span_h": 3,
         "span_v": 2,
-        "description": "Biche tranquille sur une terre fraîchement préparée, image capturant la beauté naturelle de l'animal dans un environnement agricole. Contraste visuel saisissant entre son pelage brun et le blanc de son arrière-train."
+        "description": "Photo HDR couleur d'un guichet de paies des forges d'autrefois, laissé intact, avec machine à écrire, plumier, et registre d'archives. Sol et mobilier en bois renforcent l'ambiance rustique et authentique. L’image détaille une scène historique figée dans le temps, riche en textures et en nostalgie."
     }
 ]

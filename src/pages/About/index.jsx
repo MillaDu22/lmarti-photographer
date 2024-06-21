@@ -20,8 +20,7 @@ function About() {
             <div className="career">
                 <h2>Mon parcours</h2>
                 <p>
-                    J'ai commencé la photographie en tant qu'amatrice passionnée, et au fil des années, j'ai transformé 
-                    cette passion en une compétence pour ma profession de web-developer. Je code des sites web, et peux également travailler sur les images.
+                    J'ai commencé la photographie en tant qu'amatrice passionnée, et au fil des années, mon engouement pour cette passion ne cesse d'évoluer.
                 </p>
                 <p>
                     Mon approche se base sur la créativité, l'authenticité et l'émotion. Je m'efforce de capturer 
@@ -33,12 +32,12 @@ function About() {
             <div className="testimonials">
                 <h2>Témoignages</h2>
                 <div className="testimonial">
-                    <p>"Une photographe qui a l'oeil ! Chaque photo capture une émotion. Merci pour ces souvenirs incroyables."</p>
-                    <p>- Satisfait</p>
+                    <p>"Une passionnée qui a l'oeil ! Chaque photo capture une émotion. Merci pour ces souvenirs incroyables."</p>
+                    <p>😊</p>
                 </div>
                 <div className="testimonial">
                     <p>"Son œil pour les détails et sa passion pour la photographie transparaissent dans chaque cliché."</p>
-                    <p>- Heureux</p>
+                    <p>👏</p>
                 </div>
             </div>
 
