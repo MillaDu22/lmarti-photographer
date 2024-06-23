@@ -201,19 +201,19 @@
     },
     {
         "id": 26,
-        "src": "https://i.ibb.co/stBQwrF/lie-vre-en-mvts-2.jpg",
-        "alt": "Course de lièvre",
+        "src": "https://i.ibb.co/T0QWLYG/faisan-colchide.jpg",
+        "alt": "Faisan colchide mâle",
         "span_h": 3,
         "span_v": 3,
-        "description": "Lièvre européen (Lepus europaeus) en pleine course, corps élancé et pattes arrière puissantes, mouvement rapide et gracieux. Espèce commune, emblématique des paysages ouverts. Représente l'agilité et la vivacité de la faune sauvage."
+        "description": "Faisan Colchide mâle (Phasianus colchicus), arborant des plumes éclatantes aux nuances rougeoyantes, dorées et iridescentes, perché sur un talus en bordure de champs. Prédateur d'insectes et de petits reptiles, il doit lui-même échapper à des renards, rapaces et mustélidés."
     },
     {
         "id": 27,
-        "src": "https://i.ibb.co/68B2cjk/Vipe-re-pe-liade-femelle.jpg",
-        "alt": "Gros spécimen de vipère femelle",
+        "src": "https://i.ibb.co/NY6x5fg/langue-de-vipe-re.jpg",
+        "alt": "Langue de vipère",
         "span_h": 3,
         "span_v": 3,
-        "description": "Vipère péliade femelle (Vipera berus) avec la tête dressée, regardant attentivement, écailles sombres distinctes. Espèce protégée, symbolise la vigilance et la rencontre fascinante entre humain et nature. Moment d’observation mutuelle intense et captivante."
+        "description": "Vipère péliade (Vipera berus) rampant sur le sol, sortant régulièrement sa langue bifide pour capter des particules chimiques, afin de repérer proies et prédateurs. L'expression 'langue de vipère' vient de ce comportement, symbolisant la ruse et la méchanceté."
     },
     {
         "id": 28,
@@ -289,19 +289,19 @@
     },
     {
         "id": 37,
-        "src": "https://i.ibb.co/stBQwrF/lie-vre-en-mvts-2.jpg",
-        "alt": "Lièvre sautillant",
+        "src": "https://i.ibb.co/HtkPxZ3/Roche-Jagu.jpg",
+        "alt": "Dans les entrailles du château de la Roche Jagu",
         "span_h": 3,
         "span_v": 3,
-        "description": "Lièvre européen (Lepus europaeus) en pleine course, corps élancé et pattes arrière puissantes, mouvement rapide et gracieux. Espèce commune, emblématique des paysages ouverts. Représente l'agilité et la vivacité de la faune sauvage."
+        "description": "Dans les entrailles du château de la Roche Jagu, cette pièce tapissée d'un épais velour rouge avec un sol de pavés et des murs en pierre, illuminée par des fenêtres en bois avec des vitraux d'époque. Ce magnifique château breton du XVe siècle, à été construit pour surveiller la rivière Trieux. Il illustre l'architecture médiévale de défense."
     },
     {
         "id": 38,
-        "src": "https://i.ibb.co/68B2cjk/Vipe-re-pe-liade-femelle.jpg",
-        "alt": "Vipère péliade m'observant l'observer",
+        "src": "https://i.ibb.co/HV6Nhpr/Chateau-Roche-Jagu.jpg",
+        "alt": "Vue exterieure du château de la Roche Jagu",
         "span_h": 3,
         "span_v": 3,
-        "description": "Vipère péliade femelle (Vipera berus) avec la tête dressée, regardant attentivement, écailles sombres distinctes. Espèce protégée, symbolise la vigilance et la rencontre fascinante entre humain et nature. Moment d’observation mutuelle intense et captivante."
+        "description": "Vue extérieure du château de la Roche-Jagu en HDR noir et blanc, prise de bas en haut, mettant en évidence ses imposantes murailles et ses tourelles médiévales. Érigé au XVe siècle sur une falaise surplombant la rivière Trieux, ce château breton témoigne de l'architecture défensive de l'époque, alliant robustesse et élégance."
     },
     {
         "id": 39,
@@ -350,5 +350,13 @@
         "span_h": 3,
         "span_v": 2,
         "description": "Photo HDR couleur d'un guichet de paies des forges d'autrefois, laissé intact, avec machine à écrire, plumier, et registre d'archives. Sol et mobilier en bois renforcent l'ambiance rustique et authentique. L’image détaille une scène historique figée dans le temps, riche en textures et en nostalgie."
+    },
+    {
+        "id": 45,
+        "src": "https://i.ibb.co/2qdznYt/Panoramic-pierre-II.jpg",
+        "alt": "Panoramic HDR accès chateau Pierre II à Guingamp",
+        "span_h": 8,
+        "span_v": 2,
+        "description": "Panoramique, HDR et noir & blanc de l'accès au château Pierre II de Guingamp (Ce château du XVe siècle, symbole de la puissance bretonne, a joué un rôle crucial dans la défense de la région), et révélant des murs en pierre majestueux, un escalier et des caves à cidre historiques. L'image capture la robustesse et l'authenticité médiévale de ce site breton."
     }
 ]
