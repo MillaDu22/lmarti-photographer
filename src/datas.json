@@ -1,0 +1,497 @@
+[
+    {
+        "id": 1,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721679407/Zoulou_ttwhdz.jpg",
+        "alt": " petit agneau de quelques jours",
+        "span_h": 3,
+        "span_v": 2, 
+        "description": "Agneau de Ouessant (Ovis aries) de 3 jours, petite taille, laine douce noire ou blanche, dépendant de sa mère. Race rare et protégée, originaire de l'île d'Ouessant. Adapté aux conditions rudes, important pour la biodiversité et le patrimoine breton.",
+        "category": "animalier"
+    },
+    {
+        "id": 2,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721679869/Papillon-de%CC%81prime%CC%81_yy8euh.jpg",
+        "alt": "Papillon déprimé",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Papillon (Lepidoptera) posé sur une fleur fanée, ailes légèrement repliées, aspect mélancolique. Symbolise la fragilité et la transience de la nature. Scène évoquant la fin d’un cycle et une beauté éphémère.",
+        "category": "macro"
+    },
+    {
+        "id": 3,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721680010/Zoulou4_wbmiac.jpg",
+        "alt": "Agneau qui se repose",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Agneau de Ouessant (Ovis aries) de 3 jours, reposant paisiblement, recroquevillé sur lui-même, laine douce et soyeuse. Espèce rare et protégée, originaire de l'île d'Ouessant. Symbolise la tranquillité et l'innocence dans son habitat naturel.",
+        "category": "animalier"
+    },
+    {
+        "id": 4,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721680250/lie%CC%80vre-en-mvts-2_awqoay.jpg",
+        "alt": "lièvre qui court",
+        "span_h": 3,
+        "span_v": 3,
+        "description": "Lièvre européen (Lepus europaeus) en pleine course, corps élancé et pattes arrière puissantes, mouvement rapide et gracieux. Espèce commune, emblématique des paysages ouverts. Représente l'agilité et la vivacité de la faune sauvage.",
+        "category": "animalier"
+    },
+    {
+        "id": 5,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721680471/Vipe%CC%80re-pe%CC%81liade-femelle_mpyvva.jpg",
+        "alt": "Vipère tête dréssée",
+        "span_h": 3,
+        "span_v": 3,
+        "description": "Vipère péliade femelle (Vipera berus) avec la tête dressée, regardant attentivement, écailles sombres distinctes. Espèce protégée, symbolise la vigilance et la rencontre fascinante entre humain et nature. Moment d’observation mutuelle intense et captivante.",
+        "category": "animalier"
+    },
+    {
+        "id": 6,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721680543/Libellule-de%CC%81prime%CC%81_rqrrv5.jpg",
+        "alt": "Libellule déprimée",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Libellule déprimée (Libellula depressa) en noir et blanc, posée sur une branche sèche, ailes étendues. Espèce répandue, symbolisant la fragilité et la fugacité de la vie. Scène contrastée entre la grâce de l’insecte et la sécheresse du support.",
+        "category": "macro"
+    },
+    {
+        "id": 7,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1722282273/Bouquetin_hzy8wn.jpg",
+        "alt": "Un bouc blanc",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Un bouc blanc repose tranquillement adossé à un tas de paille sèche qui lui sert de literie. En pleine nature, proche d'un sous-bois son pelage immaculé contraste avec le décor environnant. On pourrait aisément le confondre avec le bouc blanc irlandais tant il incarne la même robustesse rustique.",
+        "category": "animalier"
+    },
+    {
+        "id": 8,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721680720/Me%CC%81sange_imppne.jpg",
+        "alt": "Mésange au jardin",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Mésange bleue (Cyanistes caeruleus) se nourrissant dans un jardin en hiver, plumage vif contrastant avec le froid. Espèce commune, adaptative et active, symbolise la résilience hivernale. Scène animée de vie dans un paysage endormi.",
+        "category": "animalier"
+    },
+    {
+        "id": 9,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721680789/Mon-espagnol-breton_r7ttfu.jpg",
+        "alt": "Mon chien d'amour",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Mon chien croisé beauceron, que j’appelle affectueusement 'l'Espagnol Breton', m’observe par la fenêtre. Originaire d'Espagne, maintenant en Bretagne, il incarne un lien spécial entre ces deux cultures. Regard attentif, il me regarde partir... Symbole de fidélité et d’attachement.",
+        "category": "animalier"
+    },
+    {
+        "id": 10,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721680855/Abandonned-cars_dxaakr.jpg",
+        "alt": "2 cv abandonnées",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Dans ce cliché captivant, des légendaires Citroën 2 CV reposent dans un garage abandonné, enveloppées d'une atmosphère nostalgique. La photo, prise à travers une vitre brisée, dévoile des détails riches et une texture unique grâce à la technique HDR. Une scène qui évoque le charme d'une époque révolue avec une touche d'intemporalité.",
+        "category": "hdr"
+    },
+    {
+        "id": 11,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721680917/Abandonned-cars2_jxahts.jpg",
+        "alt": "2 chevaux",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Dans ce cliché captivant, deux légendaires Citroën 2 CV reposent dans un garage abandonné, enveloppées d'une atmosphère nostalgique. La photo, prise à travers une vitre brisée, dévoile des détails riches et une texture unique grâce à la technique HDR. Une scène qui évoque le charme d'une époque révolue avec une touche d'intemporalité.",
+        "category": "hdr"
+    },
+    {
+        "id": 12,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721681014/Vol-solitaire_gu1gwy.jpg",
+        "alt": "Canard colvert",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Canard Colvert (Anas platyrhynchos) en vol, silhouette nette contre un ciel dégagé. Image minimaliste capturant la grâce du mouvement et la simplicité de la scène. Contraste saisissant entre le specimen et le fond uniforme.",
+        "category": "animalier"
+    },
+    {
+        "id": 13,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682325/Zoulou2_usc6pa.jpg",
+        "alt": "Agnelage printanier",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Jeune agneau de Ouessant avec sa mère, dans un cadre pastoral. Race rare et protégée, originaire de l'île d'Ouessant. Scène émouvante de tendresse maternelle et de connexion dans leur environnement naturel.",
+        "category": "animalier"
+    },
+    {
+        "id": 14,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721681181/dragon-fly_efxzsa.jpg",
+        "alt": "dragon fly",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Le Leste vert (Chalcolestes viridis), est une libellule au corps frêle de couleur vert-clair métallique sur tout le corps posée délicatement sur une feuille, ailes repliées, teintes vertes chatoyantes. Espèce emblématique des zones humides, symbolisant la beauté fragile de la nature. Instant capturé, évoquant la quiétude et l'harmonie avec l'environnement.",
+        "category": "macro"
+    },
+    {
+        "id": 15,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721681229/Zoulou5_htqgye.jpg",
+        "alt": "Zeus, le petit mouton noir de Ouessant",
+        "span_h": 3,
+        "span_v": 3,
+        "description": "Agneau de Ouessant (Ovis aries) de 3 jours, petite taille, laine douce noire ou blanche, dépendant de sa mère. Race rare et protégée, originaire de l'île d'Ouessant. Adapté aux conditions rudes, important pour la biodiversité et le patrimoine breton.",
+        "category": "animalier"
+    },
+    {
+        "id": 16,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721681313/De%CC%81primed-butterfly_vosdyi.jpg",
+        "alt": "Butterfly",
+        "span_h": 3,
+        "span_v": 3,
+        "description": "Cette photo en noir et blanc capture un papillon au repos sur un végétal desséché, évoquant un sentiment de mélancolie. La texture contrastée de la feuille sèche et la fragilité du papillon soulignent la beauté éphémère de la nature. Un instant de sérénité où la vie et le déclin se rencontrent.",
+        "category": "macro"
+    },
+    {
+        "id": 17,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721681355/Zoulou3_nmwvwq.jpg",
+        "alt": "Naissance mouton d'Ouessant",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Agneau de Ouessant explorant son environnement, curieux et joueur. Race rare et protégée, originaire de l'île d'Ouessant. Moment charmant de découverte et d'apprentissage dans le paysage naturel.",
+        "category": "animalier"
+    },
+    {
+        "id": 18,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721681409/Biche_qjuayx.jpg",
+        "alt": "Biche, champs de blé",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Biche camouflée, seule sa tête émerge des épis de blé dans un champ. Image évoquant la discrétion et l'élégance naturelle. Contraste harmonieux entre la douceur de l'animal et la texture dorée des récoltes.",
+        "category": "animalier"
+    },
+    {
+        "id": 19,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721681465/Biche2_oxei2b.jpg",
+        "alt": "Biche traversant un champs de blé",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Biche camouflée, seule sa tête émerge des épis de blé dans un champ. Image évoquant la discrétion et l'élégance naturelle. Contraste harmonieux entre la douceur de l'animal et la texture dorée des récoltes.",
+        "category": "animalier"
+    },
+    {
+        "id": 20,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721681963/peliade-broussaille_prbdba.jpg",
+        "alt": "Vipère en thermo-régulation",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Vipère péliade (Vipera berus) absorbant la chaleur du soleil pour réguler sa température corporelle. Espèce protégée, habitant les milieux forestiers d'Europe. Moment crucial de thermorégulation, vital pour son activité quotidienne.",
+        "category": "animalier"
+    },
+    {
+        "id": 21,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682071/Biche3_jubyni.jpg",
+        "alt": "Observation de biche sur une terre agricole",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Biche paisible explorant une terre fraîchement préparée pour le semis, symbole de quiétude et de connexion avec la nature. Scène capturant la grâce naturelle de l'animal dans un environnement rural. Contraste entre la douceur de la biche et la terre fertile prête pour la culture.",
+        "category": "animalier"
+    },
+    {
+        "id": 22,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682147/Biche4_ywschr.jpg",
+        "alt": "Biche avec arrière train blanc",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Biche tranquille sur une terre fraîchement préparée, image capturant la beauté naturelle de l'animal dans un environnement agricole. Contraste visuel saisissant entre son pelage brun et le blanc de son arrière-train.",
+        "category": "animalier"
+    },
+    {
+        "id": 23,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682204/Abandonned-train_jbhgjl.jpg",
+        "alt": "Interieur de wagon train abandonné.",
+        "span_h": 3,
+        "span_v": 2, 
+        "description": "Cette photo HDR dévoile l'intérieur sombre et mystérieux d'un wagon de train abandonné, où le temps semble s'être figé. Les textures détaillées des sièges usés et du plafond écaillé contrastent avec la lumière filtrant à travers les fenêtres taguées. Une exploration visuelle captivante qui raconte l'histoire oubliée de voyages passés.",
+        "category": "hdr"
+    },
+    {
+        "id": 24,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682495/graine-de-me%CC%81sange_dsft16.jpg",
+        "alt": "Mesange bleue qui se nourrit au jardin en hiver.",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Mésange bleue (Cyanistes caeruleus) se nourrissant dans un jardin en hiver, plumage vif contrastant avec le décor froid. Espèce commune, adaptée aux conditions hivernales, symbolisant la résilience et la survie. Instantané de vie sauvage capturant la beauté et la vitalité dans un paysage d'hiver.",
+        "category": "animalier"
+    },
+    {
+        "id": 25,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682551/Abandonned-train-dashboard_lnow5f.jpg",
+        "alt": "Tableau de contrôle de vieille locomotive abandonnée",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Cette photo HDR en noir et blanc capture avec une richesse de détails le tableau de bord usé d'une locomotive abandonnée, témoignant d'une époque révolue. Les cadrans chromés et les leviers rouillés, illuminés par une lumière douce, créent une ambiance nostalgique et intemporelle. Une composition saisissante qui plonge dans l'histoire et la désuétude des voyages ferroviaires oubliés.",
+        "category": "hdr"
+    },
+    {
+        "id": 26,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682607/faisan-colchide_nvslzj.jpg",
+        "alt": "Faisan colchide mâle",
+        "span_h": 3,
+        "span_v": 3,
+        "description": "Faisan Colchide mâle (Phasianus colchicus), arborant des plumes éclatantes aux nuances rougeoyantes, dorées et iridescentes, perché sur un talus en bordure de champs. Prédateur d'insectes et de petits reptiles, il doit lui-même échapper à des renards, rapaces et mustélidés.",
+        "category": "animalier"
+    },
+    {
+        "id": 27,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682669/langue-de-vipe%CC%80re_xuq8mv.jpg",
+        "alt": "Langue de vipère",
+        "span_h": 3,
+        "span_v": 3,
+        "description": "Vipère péliade (Vipera berus) rampant sur le sol, sortant régulièrement sa langue bifide pour capter des particules chimiques, afin de repérer proies et prédateurs. L'expression 'langue de vipère' vient de ce comportement, symbolisant la ruse et la méchanceté.",
+        "category": "animalier"
+    },
+    {
+        "id": 28,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682754/Me%CC%81sange-portrait_rrh8tu.jpg",
+        "alt": "Portrait de mésange",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Mésange bleue (Cyanistes caeruleus) se nourrissant dans un jardin en hiver, plumage vif contrastant avec le décor froid. Espèce commune, adaptée aux conditions hivernales, symbolisant la résilience et la survie. Instantané de vie sauvage capturant la beauté et la vitalité dans un paysage d'hiver.",
+        "category": "animalier"
+    },
+    {
+        "id": 29,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682826/Logis_lz1eg9.jpg",
+        "alt": "Logis d'époque",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Cette photo intemporelle HDR dévoile un intérieur d'époque où le temps semble suspendu : une table dressée avec de la vaisselle, un lit d'autrefois, une table de couturière, un chaudron dans la cheminée et des souliers posés sur la cheminée. Le sol en terre battue renforce l'authenticité rustique du lieu, transportant le lecteur dans une époque révolue. Une scène intacte qui raconte l'histoire d'un quotidien figé dans le passé.",
+        "category": "hdr"
+    },
+    {
+        "id": 30,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682879/escalier-ancien_vyiupx.jpg",
+        "alt": "escalier ancien",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Cette photo HDR en noir et blanc capture l'atmosphère figée d'un escalier en bois dans un immeuble ancien, où une vieille poussette repose discrètement dans un coin. Les souliers laissés à côté d'une porte d'entrée et le balai avec la pelle témoignent d'une vie quotidienne suspendue. La texture du bois, magnifiée par le HDR, révèle chaque détail et souligne l'authenticité du lieu.",
+        "category": "hdr"
+    },
+    {
+        "id": 31,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682942/Lbellule-de%CC%81prime%CC%81-couleur_vcmkzz.jpg",
+        "alt": "Libellula depressa couleur",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Libellule déprimée (Libellula depressa) en couleur, posée sur une tige de ronce sèche, ailes étendues. Espèce répandue, symbolisant la fragilité et la fugacité de la vie. Scène contrastée entre la grâce et les couleurs de l’insecte et la sécheresse du support.",
+        "category": "macro"
+    },
+    {
+        "id": 32,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721683004/Pressoir-cidre_ncvhyb.jpg",
+        "alt": "Pressoir cidre",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Cette photo HDR illustre un ancien pressoir à pommes en bois utilisé pour la fabrication du cidre, mettant en avant la méthode artisanale et traditionnelle. Les textures vieillies du bois et les mécanismes rustiques témoignent de l'histoire et du savoir-faire ancestral. Un objet emblématique qui rappelle les pratiques d'autrefois pour la production de cidre.",
+        "category": "hdr"
+    },
+    {
+        "id": 33,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721683051/Fu%CC%82ts-cidre_pfrwmd.jpg",
+        "alt": "Fûts à cidre ",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Cette photo HDR de fûts à cidre en bois, symbolique d'une tradition cidricole ancienne et authentique. Les fûts, marqués par le temps et les usages répétés, évoquent l'art de la fermentation et du vieillissement du cidre. Une scène rustique qui respire l'histoire et le savoir-faire artisanal.",
+        "category": "hdr"
+    },
+    {
+        "id": 34,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721683103/Ossature-wagon-vrac_gbwfji.jpg",
+        "alt": "Ossature wagon vracquier",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Cette photo HDR en noir et blanc capture l'ossature rouillée d'un wagon vracquier abandonné, niché au cœur d'une clairière. Les détails saisissants de la rouille et des structures métalliques contrastent avec la lumière douce de l'environnement naturel. Une composition qui évoque à la fois la désuétude industrielle et la beauté sauvage.",
+        "category": "hdr"
+    },
+    {
+        "id": 35,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1722281213/Canard_e9u3w8.jpg",
+        "alt": "Canard nageant paisiblement sur un lac",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Une jeune femelle colvert (Anas platyrhynchos) flotte paisiblement sur un étang calme. Ses plumes brun clair sont rehaussées par des teintes violettes éclatantes à l'arrière. L'oiseau se fond harmonieusement dans le paysage serein.",
+        "category": "animalier"
+    },
+    {
+        "id": 36,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721683209/Forges_imvolr.jpg",
+        "alt": "Atelier de forgeron",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Cette photo HDR révèle l'intérieur d'un ancien atelier de forgeron, où les outils pendent au mur, évoquant des décennies de labeur artisanal. Un bac de refroidissement, une enclume patinée et des restes de charbon de bois complètent cette scène empreinte de l'histoire. Chaque détail est magnifié par le HDR, soulignant l'authenticité et la richesse de ce lieu oublié.",
+        "category": "hdr"
+    },
+    {
+        "id": 37,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721683255/Roche-Jagu_xrig4w.jpg",
+        "alt": "Dans les entrailles du château de la Roche Jagu",
+        "span_h": 3,
+        "span_v": 3,
+        "description": "Dans les entrailles du château de la Roche Jagu, cette pièce tapissée d'un épais velour rouge avec un sol de pavés et des murs en pierre, illuminée par des fenêtres en bois avec des vitraux d'époque. Ce magnifique château breton du XVe siècle, à été construit pour surveiller la rivière Trieux. Il illustre l'architecture médiévale de défense.",
+        "category": "hdr"
+    },
+    {
+        "id": 38,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721936802/dragon-blue_q9niks.jpg",
+        "alt": "Libellule bleue",
+        "span_h": 3,
+        "span_v": 3,
+        "description": "Une libellule bleue (Caloptéryx éclatant), connue sous le nom de demoiselle du jardin, est posée délicatement sur une tige d'herbe en bordure d'un plan d'eau. Ses ailes bleu métallisé captent la lumière, ajoutant une touche éclatante à la scène.",
+        "category": "macro"
+    },
+    {
+        "id": 39,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721683349/Dok_kwalon.jpg",
+        "alt": "Dok monte la garde",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Mon Espagnol Breton monte la garde depuis sa propriété. Une force tranquille. ",
+        "category": "animalier"
+    },
+    {
+        "id": 40,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721683458/peliade-ardoise_atdsex.jpg",
+        "alt": "Une vipère régule sa temperature sur une ardoise",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Vipère péliade sur ardoise chaude (Vipera berus) absorbant la chaleur du soleil pour réguler sa température corporelle. Espèce protégée, habitant les milieux forestiers d'Europe. Moment crucial de thermorégulation, vital pour son activité quotidienne.",
+        "category": "animalier"
+    },
+    {
+        "id": 41,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721683507/brebis-Ouessant_l0ojmt.jpg",
+        "alt": "Brebis d'Ouessant",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Brebis noire d'Ouessant (Ovis aries) se fondant dans les hautes herbes, son pelage sombre contrastant avec la végétation. Race rare et protégée, symbole de rusticité et d'adaptation. Image de tranquillité et d'intégration parfaite à l'environnement naturel.",
+        "category": "animalier"
+    },
+    {
+        "id": 42,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721683584/Portrait-libellule_gdm7fc.jpg",
+        "alt": "Portrait de libellule",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Libellule déprimée (Libellula depressa) en couleur, posée sur une tige de ronce sèche, ailes étendues. Espèce répandue, symbolisant la fragilité et la fugacité de la vie. Scène contrastée entre la grâce et les couleurs de l’insecte et la sécheresse du support.",
+        "category": "macro"
+    },
+    {
+        "id": 43,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721683636/old-school_r2v0if.jpg",
+        "alt": "Ecole des années 1950 restée intacte.",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Photo HDR couleur d'une salle de classe ancienne, avec un poêle à charbon au centre, des tables-bancs en bois usé, et des cartes et affiches d'anatomie aux murs. Une balance ancienne avec des poids ajoute une touche historique. L’image vibrant de détails et de couleurs, évoque une ambiance riche et nostalgique. Ambiance authentique d'une époque révolue, empreinte de tradition et d'apprentissage.",
+        "category": "hdr"
+    },
+    {
+        "id": 44,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721683686/guichet-paies_mg1k7y.jpg",
+        "alt": "Guichet paies intact",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Photo HDR couleur d'un guichet de paies des forges d'autrefois, laissé intact, avec machine à écrire, plumier, et registre d'archives. Sol et mobilier en bois renforcent l'ambiance rustique et authentique. L’image détaille une scène historique figée dans le temps, riche en textures et en nostalgie.",
+        "category": "hdr"
+    },
+    {
+        "id": 45,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721948271/CombleRocheJagu_tkfg4h.jpg",
+        "alt": "Dans les combles du chateau de la roche Jagu, par des accès très étroits",
+        "span_h": 3,
+        "span_v": 2, 
+        "description": "Cette photo HDR dans les combles du château de la Roche-Jagu révèle une charpente en bois magnifiquement travaillée, évoquant l'ingéniosité médiévale. Des passages étroits d'accès ajoutent une aura de mystère à ce lieu historique datant du XVe siècle.",
+        "category": "hdr"
+    },
+    {
+        "id": 46,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721948318/EntouteIntimite_zlms89.jpg",
+        "alt": "A proximité d'une biche",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Une biche (Cervus elaphus) est passée si proche de moi sans me voir que la mise au point était compliquée, me donnant l'impression d'être dans son intimité. Elle semblait paisible, évoluant doucement, son calme offrant un rare moment de communion avec la nature.",
+        "category": "animalier"
+    },
+    {
+        "id": 47,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721948358/Corridor-RocheJaju_q3p7c7.jpg",
+        "alt": "Corridor dans le chateau de la Roche Jagu, vue sur le trieux",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Ce corridor en pierre du château de la Roche-Jagu, capturé en HDR, dévoile une charpente robuste et une fenêtre stratégique pour surveiller le Trieux. Ce lieu médiéval allie architecture défensive et beauté historique.",
+        "category": "hdr"
+    },
+    {
+        "id": 48,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721948446/DokChamps_tmvg6v.jpg",
+        "alt": "Mon espagnol breton se promenant dans les champs",
+        "span_h": 3,
+        "span_v": 3,
+        "description": "Mon chien en promenade dans les champs surveille attentivement la moindre présence dans cet environnement très calme. Son allure vigilante et élégante s'harmonise parfaitement avec la sérénité de la nature.",
+        "category": "animalier"
+    },
+    {
+        "id": 49,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721950446/Rougegorge_kasac1.jpg",
+        "alt": "Rouge-gorge sifflant sur une branche, perché dans un arbre",
+        "span_h": 3,
+        "span_v": 3,
+        "description": "Un rouge-gorge (Erithacus rubecula) perché sur une branche siffle mélodieusement à l'ombre des arbres feuillus. Sa présence apporte une touche de vie et de couleur au sous-bois tranquille.",
+        "category": "animalier"
+    },
+    {
+        "id": 50,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721948575/WindowRocheJagu-2_savzff.jpg",
+        "alt": "Dans une pièce du chateau de la Roche Jagu",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Une fenêtre à vitrail du château de la Roche-Jagu, capturée en HDR, met en valeur le sol en pavé, les murs enduits de chaux et le tour de fenêtre en pierre. Ce traitement accentue la texture des matériaux d'époque, révélant l'authenticité et le charme historique du lieu.",
+        "category": "hdr"
+    },
+    {
+        "id": 51,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721948631/PatteDok_uojh1p.jpg",
+        "alt": "Mon chien dormant dans l'entrée de la maison",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Mon chien au repos, focus sur ses coussinets. La perspective met en valeur la texture de ses pattes, et capture un moment de tranquillité.",
+        "category": "animalier"
+    },
+    {
+        "id": 52,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721948671/Peliade-rampante_evzxth.jpg",
+        "alt": "Vipère en pleine découverte",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Une vipère péliade (Vipera berus) rampe lentement, cherchant une proie. Ses mouvements sinueux et ses écailles distinctives ajoutent une note de tension et d'élégance à cette scène naturelle.",
+        "category": "animalier"
+    },
+    {
+        "id": 53,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721948709/peliadeDansante_nb6tk6.jpg",
+        "alt": "Vipère dressée qui semble danser",
+        "span_h": 2,
+        "span_v": 3,
+        "description": "Une vipère (Vipera berus) dressée. Elle semble danser avec une élégance sinueuse. Son corps ondulant et ses mouvements fluides créent une illusion fascinante de danse reptilienne.",
+        "category": "animalier"
+    },
+    {
+        "id": 54,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721948785/Ragondin-lac_goquuu.jpg",
+        "alt": "Ragondin nageant dans un étang",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Un ragondin (Myocastor coypus) émerge de l'eau à l'entrée de son habitat, situé sur un îlot au milieu d'un étang. Il se déplace avec aisance, ajoutant une touche vivante à ce paysage aquatique.",
+        "category": "animalier"
+    },
+    {
+        "id": 55,
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721948820/Pelican_uuricq.jpg",
+        "alt": "Pélican blanc sur un vieux ponton au milieu d'un point d'eau.",
+        "span_h": 3,
+        "span_v": 2,
+        "description": "Un pélican blanc (Pelecanus onocrotalus) repose sur un ponton brisé aux abords d'un lac. La tranquillité de l'animal est palpable, ajoutant une note de sérénité à ce décor fragmenté.",
+        "category": "animalier"
+    }
+]

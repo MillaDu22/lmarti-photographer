@@ -1,0 +1,127 @@
+.AProposPage {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+    font-family: 'Ysabeau SC', sans-serif;
+    color: white;
+    padding: 10%;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width:100%;
+    text-align: left;
+    margin-bottom: 40px;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+.box-tof-about {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    box-shadow: 0 3px 4px rgb(0, 0, 0, 1), inset 0 -2px 5px rgba(0, 0, 0, 1),
+    inset 0 4px 15px rgba(255, 255, 255, 0.245), 0 0 0 2px #000, 0 0 0 5px #000000,
+    0 0 0 5.5px #080808;
+    margin-bottom: 20px;
+}
+
+.intro p {
+    text-align: left;
+}
+
+.profile-pic {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.career {
+    background: #060606;
+    padding:20px;
+    box-shadow: 0 3px 4px rgb(0, 0, 0, 1), inset 0 -2px 5px rgba(0, 0, 0, 1),
+    inset 0 4px 15px rgba(65, 65, 65, 0.245), 0 0 0 2px #000, 0 0 0 5px #000000,
+    0 0 0 5.5px #080808;
+    border-radius:5px;
+}
+
+.career, .gallery, .testimonials, .contact {
+    margin-bottom: 40px;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.career h2, .gallery h2, .testimonials h2, .contact h2 {
+    border-bottom: 2px solid white;
+    display: inline-block;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.gallery-images {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.gallery-pic {
+    width: 45%;
+    margin-bottom: 20px;
+    border: 5px solid #ddd;
+    border-radius: 5px;
+}
+
+.container-testimonial {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 3px 4px rgb(0, 0, 0, 1), inset 0 -2px 5px rgba(0, 0, 0, 1),
+    inset 0 4px 15px rgba(255, 255, 255, 0.245), 0 0 0 2px #000, 0 0 0 5px #000000,
+    0 0 0 5.5px #080808;
+    margin-bottom: 20px;
+    padding:10px;
+}
+
+.testimonial {
+    width:100%;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: -2px -2px 2px rgba(85, 82, 82, 0.067), inset -1px -1px 1px rgba(255, 255, 255, 0.014), 2px 2px 2px #0004, inset 1px 1px 1px #0004;
+
+}
+
+.contact {
+    background: #060606;
+    padding:20px;
+    box-shadow: 0 3px 4px rgb(0, 0, 0, 1), inset 0 -2px 5px rgba(0, 0, 0, 1),
+    inset 0 4px 15px rgba(65, 65, 65, 0.245), 0 0 0 2px #000, 0 0 0 5px #000000,
+    0 0 0 5.5px #080808;
+    border-radius:5px;
+}
+
+.testimonial p {
+    margin: 0;
+    color: black;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.contact a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}
