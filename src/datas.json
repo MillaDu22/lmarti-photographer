@@ -64,11 +64,11 @@
     },
     {
         "id": 8,
-        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721680720/Me%CC%81sange_imppne.jpg",
-        "alt": "Mésange au jardin",
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1722806457/aigrette3_ja55xk.jpg",
+        "alt": "Grande aigrette blanche ayant capturé un poisson, le tenant dans son lon bec",
         "span_h": 3,
         "span_v": 2,
-        "description": "Mésange bleue (Cyanistes caeruleus) se nourrissant dans un jardin en hiver, plumage vif contrastant avec le froid. Espèce commune, adaptative et active, symbolise la résilience hivernale. Scène animée de vie dans un paysage endormi.",
+        "description": "Une grande aigrette (Ardea alba) se tient fièrement au bord de l'étang, un poisson fraîchement capturé fermement maintenu dans son bec. Son plumage blanc étincelant contraste avec les éclats argentés de sa proie, tandis qu'elle ajuste sa prise avant de la dévorer.",
         "category": "animalier"
     },
     {
@@ -109,11 +109,11 @@
     },
     {
         "id": 13,
-        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682325/Zoulou2_usc6pa.jpg",
-        "alt": "Agnelage printanier",
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1722804793/aigrette_p7n0d5.jpg",
+        "alt": "Jeune aigrette blanche",
         "span_h": 2,
         "span_v": 3,
-        "description": "Jeune agneau de Ouessant avec sa mère, dans un cadre pastoral. Race rare et protégée, originaire de l'île d'Ouessant. Scène émouvante de tendresse maternelle et de connexion dans leur environnement naturel.",
+        "description": "La grande aigrette (Ardea alba) est capturée ici en pleine observation sur les rives d'un étang. Cette jeune aigrette, au plumage blanc éclatant, avance lentement dans l'eau peu profonde, ses yeux fixés sur la surface, à l'affût d'un poisson à saisir.",
         "category": "animalier"
     },
     {
@@ -208,11 +208,11 @@
     },
     {
         "id": 24,
-        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1721682495/graine-de-me%CC%81sange_dsft16.jpg",
-        "alt": "Mesange bleue qui se nourrit au jardin en hiver.",
+        "src": "https://res.cloudinary.com/djwpbyzto/image/upload/v1722805487/aigrette1_hrujkw.jpg",
+        "alt": "Grande aigrette blanche.",
         "span_h": 2,
         "span_v": 3,
-        "description": "Mésange bleue (Cyanistes caeruleus) se nourrissant dans un jardin en hiver, plumage vif contrastant avec le décor froid. Espèce commune, adaptée aux conditions hivernales, symbolisant la résilience et la survie. Instantané de vie sauvage capturant la beauté et la vitalité dans un paysage d'hiver.",
+        "description": "Une grande aigrette (Ardea alba) émerge doucement derrriere la végétation, son plumage blanc se détachant sur le fond verdoyant de l'étang. Elle avance avec précaution dans l'eau calme, chaque pas est mesuré alors qu'elle guette avec patience le moindre mouvement d'un poisson sous la surface.",
         "category": "animalier"
     },
     {
